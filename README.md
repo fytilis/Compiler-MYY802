@@ -1,6 +1,3 @@
-Βεβαίως! Εδώ είναι το πλήρες κείμενο, διαμορφωμένο σε Markdown, έτοιμο για να το κάνεις copy-paste απευθείας στο README.md αρχείο σου.
-
-Generated markdown
 # Greek++ Compiler
 
 A complete, multi-stage compiler for the educational programming language **Greek++**. The compiler is written entirely in Python and translates Greek++ source code into assembly for the **RISC-V** architecture.
