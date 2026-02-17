@@ -78,4 +78,4 @@ You only need **Python 3** installed on your system.
 ## ✍️ Authors
 
 *   **Theofanis Tombolis** (cs04855)
-*   **Athanasios Fytilis** (cs05831)
+*   **Athanasios Fytilis** (cs05381)
